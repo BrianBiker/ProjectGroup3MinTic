@@ -1,0 +1,8 @@
+***Proyecto MIN TIC***
+***Grupo 3***
+***Desarrollo de Sofware***
+Norbey Orozco
+
+Product Owner. 
+
+El objetivo del rol consiste en declarar los requerimientos de una plataforma agropecuaria para el mercadeo de productos campesinos
